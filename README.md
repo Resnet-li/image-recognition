@@ -1,2 +1,2 @@
 # image-recognition
-A Multi-feature fusion method for image recognition of GIM
+A multi-feature fusion method for image recognition of GIM recognition
